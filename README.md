@@ -1,4 +1,3 @@
-![Imagen de portada](https://github.com/Dianina1998/SALES-REPORT-17---19/blob/main/MI%20PERFIL%20(2).png?raw=true)
 <img src="https://github.com/Dianina1998/SALES-REPORT-17---19/blob/main/MI%20PERFIL%20(2).png?raw=true" width="500"/>
 
 # SALES-REPORT-17---19
