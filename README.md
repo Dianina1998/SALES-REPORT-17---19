@@ -58,5 +58,7 @@ The dashboard provides a detailed view of sales performance, employee productivi
 
 ## Technologies Used:
 - Excel
-
+  
+## Excel File:
+The dataset used for this project is available in the following [Excel file](https://github.com/Dianina1998/SALES-REPORT-17---19/raw/refs/heads/main/SALES%20REPORT%2017%20-%2019.xlsm).
 
