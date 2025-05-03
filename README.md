@@ -45,6 +45,10 @@ This project aims to optimize the sales management of the commercial department 
 
 4. **Monitor Performance Annually**: Continue measuring results in the coming years to ensure that the implemented strategies are working.
 
+
+<p align="center">
+# SALES PERFORMANCE DASHBOARD
+   
 <p align="center">
   <strong>SALES PERFORMANCE DASHBOARD</strong>
 </p>
