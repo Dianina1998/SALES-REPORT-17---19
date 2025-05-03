@@ -46,8 +46,10 @@ This project aims to optimize the sales management of the commercial department 
 4. **Monitor Performance Annually**: Continue measuring results in the coming years to ensure that the implemented strategies are working.
 
 <p align="center">
-  <img src="https://github.com/Dianina1998/SALES-REPORT-17---19/blob/main/Proyecto%201.jpeg?raw=true" alt="Descripción de la Imagen" />
-  <em>SALES PERFORMANCE DASHBOARD</em>
+  <strong>SALES PERFORMANCE DASHBOARD</strong>
+</p>
+<p align="center">
+  <img src="https://github.com/Dianina1998/SALES-REPORT-17---19/blob/main/Proyecto%201.jpeg?raw=true" alt="Descripción de la Imagen" alt="Descripción de la Imagen" />
 </p>
 
 ## Description:
